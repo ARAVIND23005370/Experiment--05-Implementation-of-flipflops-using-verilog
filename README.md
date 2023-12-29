@@ -163,4 +163,5 @@ Q(t+1)=T′Q(t)+TQ(t)′
 # T FlipFlop:
 ![WhatsApp Image 2023-12-29 at 23 17 07_1abf3e4e](https://github.com/23004027/Experiment--05-Implementation-of-flipflops-using-verilog/assets/138956447/dfd659ee-21f3-4ca0-b242-393457dde136)
 
-### RESULTS 
+### RESULTS :
+Thus, the implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
