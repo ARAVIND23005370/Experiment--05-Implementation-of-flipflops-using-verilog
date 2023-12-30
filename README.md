@@ -1,6 +1,6 @@
 # Experiment--05-Implementation-of-flipflops-using-verilog
-# Name :vignesh.v
-# Register number:23004027
+# Name :ARAVIND R
+# Register number:23005370
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
